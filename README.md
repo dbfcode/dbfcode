@@ -9,11 +9,11 @@
 ### 🚀 Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=plastic&logo=java&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=000000" />
 </p>
 
 ---
@@ -21,13 +21,13 @@
 ### 🛠️ Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-087CFA?style=for-the-badge&logo=intellij-idea&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-ClickUp-000000?style=for-the-badge&logo=clickup&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-087CFA?style=plastic&logo=intellij-idea&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=plastic&logo=postman&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Git-000000?style=plastic&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=plastic&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Jira-000000?style=plastic&logo=jira&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-ClickUp-000000?style=plastic&logo=clickup&logoColor=ffffff" />
 </p>
 
 ---
@@ -35,20 +35,20 @@
 ### 🔧 Other
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-JUnit-000000?style=for-the-badge&logo=junit5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=jest&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Kanban-000000?style=for-the-badge&logo=kanban&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-HTML5-000000?style=plastic&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-CSS3-000000?style=plastic&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=plastic&logo=javascript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=plastic&logo=tailwind-css&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Bootstrap-000000?style=plastic&logo=bootstrap&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-PHP-000000?style=plastic&logo=php&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-MySQL-000000?style=plastic&logo=mysql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=plastic&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-MongoDB-000000?style=plastic&logo=mongodb&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-JUnit-000000?style=plastic&logo=junit5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Jest-000000?style=plastic&logo=jest&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Scrum-000000?style=plastic&logo=scrumalliance&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Kanban-000000?style=plastic&logo=kanban&logoColor=ffffff" />
 </p>
 
 ---
