@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Diêgo Ferreira</h1>
-  <p>Backend Engineer @ Fintech</p>
+  <p>Backend Engineer | AI  @ Fintech</p>
 </div>
 
 ---
