@@ -34,5 +34,5 @@
 
 ### 📊 Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/its-just-me-myself-and-i/dbfcode/main/profile-3d-contrib/profile-green.svg" />
+  <img src="https://github.com/its-just-me-myself-and-i/dbfcode/blob/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
