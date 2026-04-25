@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Diêgo Ferreira</h1>
-  <p>Backend Full stack Engineer | AI | Spring Boot @ Fintech</p>
+  <p>Backend Full stack Engineer | AI | Java | Spring Boot @ Fintech</p>
 </div>
 
 ---
